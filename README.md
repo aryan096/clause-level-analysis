@@ -6,3 +6,7 @@ To run the notebooks in this repo, you need the following -
 ^ Both of these are not in the repo 
 
 :)
+
+## TODO:
+
+1. Save the phi values in a better format than python files 
